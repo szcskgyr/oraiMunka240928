@@ -1,0 +1,7 @@
+# feladat6.szog()
+# feladat7.negyzetgyok()
+# feladat13.kor()
+# feladat14.kocka()
+# feladat15.teglalap1()
+# feladat5.honap()
+feladat11.husvet()
